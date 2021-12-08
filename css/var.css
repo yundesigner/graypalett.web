@@ -1,0 +1,16 @@
+body {
+  font-family: Helvetica, "맑은 고딕", "malgun gothic", "Apple SD Gothic Neo",
+    "Apple SD 산돌고딕 Neo", "Microsoft NeoGothic", "Droid sans", sans-serif;
+}
+
+/* margin-bottom */
+
+.mb8 {
+  margin-bottom: 8px;
+}
+.mb12 {
+  margin-bottom: 12px;
+}
+.mb24 {
+  margin-bottom: 24px;
+}
